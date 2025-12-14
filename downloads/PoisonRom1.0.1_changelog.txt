@@ -1,1 +1,16 @@
-Congrats we have the first changelog
+Added experimental feature "Use legacy AW tools"
+Added experimental feature "Use new RK tools"
+Project now stores original file name
+Projects now relies on a generated configuration during unpack for repacking
+Rebuilt unpacking logic
+Updated rockchip unpacking method
+Updated rockchip packing method
+Updated allwinner unpacking method
+Updated allwinner packing method
+Upgrade image detection added for unpacking
+Added support unpacking rockchip dtb files
+Added support unpacking allwinner dtb files
+Fixed allwinner pheonix suite 2025 error
+Added capabillity to align context and permissions
+Adjusted adding app to follow android application structure of parent app directory
+Added packing configuration to choose what to repack
